@@ -1,9 +1,24 @@
 # TechMaster Bootcamp Homework4
 
-Navigation 
+In Techcareer TechMaster Bootcamp 4rd homework <br>
+
+
+Screens ; <br>
+
+<table>
+    <tr>
+    <td>English</td>
+   </tr> 
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/77745850/212565865-f6208dbe-4575-48bd-914a-b50a30462747.mp4" width="100%"></td>
+   </tr> 
+  </tr>
+</table>
 
 
 
 
-https://user-images.githubusercontent.com/77745850/212565772-d17fdd71-9696-4a0a-ba58-0ce78e51f634.mov
+
+
+
 
