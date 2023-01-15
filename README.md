@@ -10,7 +10,7 @@ Screens ; <br>
     <td>English</td>
    </tr> 
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/77745850/212565905-a502ec88-e56c-45aa-ab23-9fcd47f2bc6a.mov" width="100%"></td>
+    <td><img src="" width="100%"></td>
    </tr> 
   </tr>
 </table>
@@ -18,6 +18,10 @@ Screens ; <br>
 
 
 
+
+
+
+https://user-images.githubusercontent.com/77745850/212566021-3a2f64d5-1b0f-4f87-887a-9ea17a3ba242.mov
 
 
 
